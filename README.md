@@ -5,7 +5,11 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 ## 🎮 How to Play Simon Says
 
 1.Starting the Game: Press any key to start the game.
+
 2.Gameplay: Watch the game presents a sequence of colors.
+
 3.Repeat the Sequence: Click on the buttons in the same order as the sequence presented by the game.
+
 4.Level Up: Successfully repeat the sequence to advance to the next level.
+
 5.Game Over: If you make a mistake and click the wrong button or click them out of order, the game ends and you must start over.
