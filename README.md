@@ -14,5 +14,5 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 
 5. Game Over: If you make a mistake and click the wrong button or click them out of order, the game ends, and you must start over.
 
-## Enjoy the Game @ https://geeta2007.github.io/SimonSay-s-Game/
+## Enjoy the Game @  https://geeta2007.github.io/SimonSay-s-Game/
 ## All the best👍😁
