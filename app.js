@@ -43,7 +43,7 @@ function btnFlash(btn){
     // let idx = level - 1;
     if(userSeq[idx] === gameSeq[idx]){
         if (userSeq.length === gameSeq.length){
-            setTimeout(levelUp, 1000);
+            setTimeout(levelUp, 500);
         };
     }else{
         h2.innerHTML = `Game over! Your score was <b>${level}</b> <br>Press any key to start`;
